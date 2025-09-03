@@ -19,6 +19,21 @@ Based on this description, create 10 high-level requirements for the sales syste
 
 ```
 Write your requirements here!
+Functional requirements:
+User should be notified of questionnaire submissions.
+User should be able to tag customers with the most suitable security system.
+User should be able to receive an estimation of the costs.
+User should be able to search for customers.
+
+Non-functional requirements:
+Users should be able to use voice commands for easier access.
+Users should be able to have accurate estimation of costs 99.99% of the time.
+Users should receive updated data in less than a second.
+Users should be able to translate information in different languages.
+
+System requirements:
+Software must be able to run on android and ios tablets.
+Software must be able to store data for offline usage.
 ```
 
 # Instructions: Part 2
@@ -27,7 +42,7 @@ For each of the following high-level requirements, mark them as either user or s
 
 * librarians should be able to generate reports on book loans, returns, and inventory status *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -39,11 +54,11 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, non-functional requirement
 
-[ ] system requirement
+[x] system requirement
 
 * users should get notifications about due dates and overdue books *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -53,13 +68,13 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, functional requirement
 
-[ ] user, non-functional requirement
+[x] user, non-functional requirement
 
 [ ] system requirement
 
 * users should be able to search for for books by title, author, genre, or ISBN *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
